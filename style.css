@@ -14,7 +14,6 @@ body{
 nav{
     flex: 1;
     text-align: right;
-}
 nav ul{
     display: inline-block;
     list-style: none;
@@ -22,6 +21,7 @@ nav ul{
 nav ul li{
     display: inline-block;
     margin: 20px;
+}
 }
 a{
     text-decoration: none;
@@ -337,13 +337,12 @@ input[type=text], select, textarea {
   margin-bottom: 16px;
   resize: vertical 
 }
-
 input[type=submit] {
   background-color: black;
   color: white;
   padding: 12px 20px;
   border: none;
-  border-radius: 4px;
+  border-radius: 30px;
   cursor: pointer;
 }
 input[type=submit]:hover {
