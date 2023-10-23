@@ -246,18 +246,18 @@ form a{
 }
 .footer h3{
     color: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .footercol1, .footercol2, footercol3, footercol4{
     min-width: 250px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .footercol1{
     flex-basis: 30%;
 }
 .footercol1 img{
     width: 180px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .footercol2{
     flex: 1;
@@ -265,7 +265,7 @@ form a{
 }
 .footercol2 img{
     width: 180px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .footercol3, .footercol4{
     flex-basis: 12%;
