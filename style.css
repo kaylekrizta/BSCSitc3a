@@ -155,7 +155,6 @@ h4{
 .case1 .excl img{
     padding: 50px;
 }
-}
 /*products page */
 .row{
     justify-content: space-between;
@@ -321,7 +320,7 @@ span{
     align-items: center;
     flex-wrap: wrap;
     justify-content: space-around;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 /*contact us form*/
 input[type=text], select, textarea {
